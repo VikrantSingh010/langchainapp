@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+
+python_dotenv
+duckduckgo-search
+arxiv
+wikipedia
+google-search
